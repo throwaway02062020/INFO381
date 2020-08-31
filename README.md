@@ -56,6 +56,6 @@ When installing requirements in Ubuntu, change numpy version in requirements to 
 ## Authors
 
 * Tor H. Aasheim
-* Knut A. Hufthamar
+* Knut A. Hufthammer
 * Sølve Ånneland
 * Håvard Brynjulfsen
